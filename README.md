@@ -1,4 +1,4 @@
-- 👋 Hi,Hi everyone I’m Kirill
+- 👋 Hi everyone I’m Kirill
 - 👀 I’m interested in computer vision, robotics, AI
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on ...
