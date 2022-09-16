@@ -2,17 +2,18 @@
    ![image](https://dblue.it/wp-content/uploads/2020/01/Automated-vehicle.jpg)
  ####   👨‍🎓 I’m Yandex.Practicum graduate and python-developer 👨‍💻
  in my studies I used tools:
-* PostgreSQL
-* MySQL
-* SQLite
-* Django Framework
-* REST API
-* Docker
-* Nginx
-* Linux
-* Yandex.Cloud
-* Telegramm-bot
-*  HTML
+* `PostgreSQL`
+* `MySQL`
+* `SQLite`
+* `Django Framework`
+* `REST API`
+* `Docker`
+* `Nginx`
+* `Linux`
+* `Yandex.Cloud`
+* `Telegramm-bot`
+* `HTML`
+
  ####  🤖 I’m interested in computer vision, robotics, AI.
  
  ####  📚 I’m currently learning computer vision!
