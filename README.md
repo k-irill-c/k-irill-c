@@ -1,5 +1,5 @@
  ##  🙋‍♂️ Hi everyone, I’m Kirill!
-   ![image](https://dblue.it/wp-content/uploads/2020/01/Automated-vehicle.jpg)
+   ![image](https://miro.medium.com/max/1200/0*f2a-cMPMEsIiDpzn.jpg)
  ####   👨‍🎓 I’m Yandex.Practicum graduate and python-developer 👨‍💻
  in my studies I used tools:
  
